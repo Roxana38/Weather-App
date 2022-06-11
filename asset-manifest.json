@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/Roxana38.github.io/Weather-App/static/js/main.47e8c658.chunk.js",
-    "main.js.map": "/Roxana38.github.io/Weather-App/static/js/main.47e8c658.chunk.js.map",
-    "runtime-main.js": "/Roxana38.github.io/Weather-App/static/js/runtime-main.945d3a1e.js",
-    "runtime-main.js.map": "/Roxana38.github.io/Weather-App/static/js/runtime-main.945d3a1e.js.map",
-    "static/css/2.862b2f9f.chunk.css": "/Roxana38.github.io/Weather-App/static/css/2.862b2f9f.chunk.css",
-    "static/js/2.54786df0.chunk.js": "/Roxana38.github.io/Weather-App/static/js/2.54786df0.chunk.js",
-    "static/js/2.54786df0.chunk.js.map": "/Roxana38.github.io/Weather-App/static/js/2.54786df0.chunk.js.map",
-    "index.html": "/Roxana38.github.io/Weather-App/index.html",
-    "precache-manifest.428552a0a0e7ab26792c3cfa228d3c38.js": "/Roxana38.github.io/Weather-App/precache-manifest.428552a0a0e7ab26792c3cfa228d3c38.js",
-    "service-worker.js": "/Roxana38.github.io/Weather-App/service-worker.js",
-    "static/css/2.862b2f9f.chunk.css.map": "/Roxana38.github.io/Weather-App/static/css/2.862b2f9f.chunk.css.map",
-    "static/js/2.54786df0.chunk.js.LICENSE.txt": "/Roxana38.github.io/Weather-App/static/js/2.54786df0.chunk.js.LICENSE.txt"
+    "main.js": "/Weather-App/static/js/main.47e8c658.chunk.js",
+    "main.js.map": "/Weather-App/static/js/main.47e8c658.chunk.js.map",
+    "runtime-main.js": "/Weather-App/static/js/runtime-main.3bf10b8e.js",
+    "runtime-main.js.map": "/Weather-App/static/js/runtime-main.3bf10b8e.js.map",
+    "static/css/2.862b2f9f.chunk.css": "/Weather-App/static/css/2.862b2f9f.chunk.css",
+    "static/js/2.38f652f4.chunk.js": "/Weather-App/static/js/2.38f652f4.chunk.js",
+    "static/js/2.38f652f4.chunk.js.map": "/Weather-App/static/js/2.38f652f4.chunk.js.map",
+    "index.html": "/Weather-App/index.html",
+    "precache-manifest.20c2da152c6e811d0659d16c887c291a.js": "/Weather-App/precache-manifest.20c2da152c6e811d0659d16c887c291a.js",
+    "service-worker.js": "/Weather-App/service-worker.js",
+    "static/css/2.862b2f9f.chunk.css.map": "/Weather-App/static/css/2.862b2f9f.chunk.css.map",
+    "static/js/2.38f652f4.chunk.js.LICENSE.txt": "/Weather-App/static/js/2.38f652f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.945d3a1e.js",
+    "static/js/runtime-main.3bf10b8e.js",
     "static/css/2.862b2f9f.chunk.css",
-    "static/js/2.54786df0.chunk.js",
+    "static/js/2.38f652f4.chunk.js",
     "static/js/main.47e8c658.chunk.js"
   ]
 }
