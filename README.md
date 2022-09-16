@@ -1,11 +1,12 @@
 # Reactive Weather
+   Own web based Weather application! Aerisweather API
 
 ## Story
 
 People Always Talk About The Weather... They are always checking the weather in native and web applications.
 Now you can go further and create your own web based Weather application!
 
-## What are you going to learn?
+## Using 
 
 - JS fetch API
 - React UseState hook
@@ -28,20 +29,5 @@ Now you can go further and create your own web based Weather application!
     - Selecting `Milan` from the dropdown menu changes the page url to `http://localhost:3000/#/city/Milan,it`
     - Selecting `Milan` the weather for `Milan` is shown
 
-## General requirements
 
-None
-
-## Hints
-
-- once you start the project you first need to install the react library with `npm install`
-- once all the react libraries are installed, you can start the project  with `npm start`
-
-## Background materials
-
-- <i class="far fa-exclamation"></i> [Weather API](https://www.aerisweather.com/support/docs/api/)
-- <i class="far fa-exclamation"></i> [Search input with autocomplete](https://www.npmjs.com/package/react-search-autocomplete)
-- <i class="far fa-book-open"></i> [JavaScript Fetch API Examples](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data)
-- <i class="far fa-book-open"></i> [React Use Effect](https://reactjs.org/docs/hooks-effect.html)
-- <i class="far fa-book-open"></i> [Functional Components](https://www.robinwieruch.de/react-function-component#react-stateless-function-component)
-- <i class="far fa-book-open"></i> [React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+![image react](https://user-images.githubusercontent.com/98492894/190632371-72155edb-1e77-4a1b-bad5-0ff4dc8bbf6c.jpg)   ![image visual](https://user-images.githubusercontent.com/98492894/190632410-448407d1-3d02-412a-9d7e-26249a914ffe.jpg)
